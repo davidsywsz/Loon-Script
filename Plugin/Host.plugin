@@ -18,5 +18,5 @@
 cdn.pcbeta.attachment.inimc.com = 120.52.19.113
 cdn.pcbeta.css.inimc.com = 120.52.19.113
 cdn.pcbeta.static.inimc.com = 120.52.19.113
-*testflight.apple.com = 8.8.4.4
+*testflight.apple.com = server:8.8.4.4
  
